@@ -1,6 +1,8 @@
 # Electricity-Price-Forecasting
 ## Electricity Price Forecasting - Time Series Analysis using Machine learning and Deep learning Techniques
 
+![image](https://user-images.githubusercontent.com/108236580/213943724-2ceb3cb3-e143-40a4-b5f3-56f003d53e19.png)
+
 Electricity is a fundamental human necessity and unquestionably one of the key drivers of societal advancement. But in recent decades, power industries in many nations have been liberalized and energy has become a tradeable commodity. Because the price of energy is influenced by a wide range of circumstances and because power cannot be efficiently stored in big quantities, the Electric Power Act 54/1997 in Spain exposed all of the stakeholders to a great deal of uncertainty. The need for trustworthy forecasting techniques at all scales (hourly, daily, long-term, etc.) has also arisen with the creation of this new industry and has grown into a significant area of research.
 
 This project's objective is to evaluate several deep neural network architectures (+XGBoost) on the job of estimating the price of power for the upcoming hour using historical data on the price of electricity as well as other characteristics related to energy production and weather. The kernel also includes thorough feature engineering, time series analysis of the price of power, and data exploration and cleaning. A comparable strategy may be helpful to all the players (electric power providers, investors, etc.) participating in the energy markets with additional study and development (e.g., as a forecasting model which is updated in real-time).
