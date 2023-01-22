@@ -1,7 +1,7 @@
 # Electricity-Price-Forecasting
 ## Electricity Price Forecasting - Time Series Analysis using Machine learning and Deep learning Techniques
 
-![image](https://user-images.githubusercontent.com/108236580/213943724-2ceb3cb3-e143-40a4-b5f3-56f003d53e19.png)
+![image](https://user-images.githubusercontent.com/108236580/213943804-aa4ca318-8580-4ba7-a499-07de1fb3ff8a.png)
 
 Electricity is a fundamental human necessity and unquestionably one of the key drivers of societal advancement. But in recent decades, power industries in many nations have been liberalized and energy has become a tradeable commodity. Because the price of energy is influenced by a wide range of circumstances and because power cannot be efficiently stored in big quantities, the Electric Power Act 54/1997 in Spain exposed all of the stakeholders to a great deal of uncertainty. The need for trustworthy forecasting techniques at all scales (hourly, daily, long-term, etc.) has also arisen with the creation of this new industry and has grown into a significant area of research.
 
